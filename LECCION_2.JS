@@ -1,7 +1,7 @@
 //EJERCICIO
 const nombre = "Luis Miguel";
 const programa = "ADSO";
-const numeroFicha = 3233140;
+const numeroFicha = "3233140";
 
 
 let edad = 20;
@@ -16,3 +16,9 @@ promedio = 4.5;
 console.log("Nuevo promedio:", promedio);
 
 nombre = "sebastian ";
+
+let resultado = null;
+console.log (resultado)
+resultado = "aprovado";
+
+
